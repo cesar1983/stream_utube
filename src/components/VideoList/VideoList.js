@@ -9,7 +9,7 @@ const VideoList = ({ videos, handleVideoSelect }) => {
     <VideoItem onVideoSelect={handleVideoSelect} key={key} video={video} />
   ));
   return (
-    <Grid container spacing={5}>
+    <Grid container spacing={4}>
       {listOfVideos}
     </Grid>
   );
