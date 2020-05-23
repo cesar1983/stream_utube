@@ -1,3 +1,3 @@
 # Youtube "clone"
 
-Projeto para estudar react-js lendo API do youtube.
+Projeto para estudar react-js, axios e material-ui lendo API do youtube.
